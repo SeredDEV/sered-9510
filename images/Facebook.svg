@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.149825" y1="0.149825" x2="0.915375" y2="0.915375" id="gradient_1">
+      <stop offset="0" stop-color="#2AA4F4" />
+      <stop offset="1" stop-color="#007AD9" />
+    </linearGradient>
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="icons8_facebook_2">
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M20.8333 0C9.32708 0 0 9.32708 0 20.8333C0 32.3396 9.32708 41.6667 20.8333 41.6667C32.3396 41.6667 41.6667 32.3396 41.6667 20.8333C41.6667 9.32709 32.3396 0 20.8333 0L20.8333 0Z" transform="translate(4.166687 4.1666718)" id="Shape" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+      <path d="M11.0906 17.801L16.4823 17.801L17.3292 12.324L11.0906 12.324L11.0906 9.33021C11.0906 7.05521 11.8344 5.0375 13.9625 5.0375L17.3823 5.0375L17.3823 0.258333C16.7813 0.177083 15.5104 0 13.1094 0C8.09479 0 5.15521 2.64792 5.15521 8.68125L5.15521 12.325L0 12.325L0 17.8021L5.15417 17.8021L5.15417 32.8562C6.175 33.0083 7.20938 33.1125 8.27083 33.1125C9.23021 33.1125 10.1667 33.025 11.0906 32.9L11.0906 17.801L11.0906 17.801Z" transform="translate(16.729187 12.720833)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="objectBoundingBox" cx="37.174828%" cy="100.07217%" fx="37.174828%" fy="100.07217%" r="124.653625%" gradientTransform="translate(0.37174827,1.0007217),translate(-0.37174827,-1.0007217)" id="gradient_1">
+      <stop offset="0%" stop-color="#FFDD55" />
+      <stop offset="32.8%" stop-color="#FF543F" />
+      <stop offset="34.8%" stop-color="#FC5245" />
+      <stop offset="50.4%" stop-color="#E64771" />
+      <stop offset="64.3%" stop-color="#D53E91" />
+      <stop offset="76.1%" stop-color="#CC39A4" />
+      <stop offset="84.1%" stop-color="#C837AB" />
+    </radialGradient>
+    <radialGradient gradientUnits="objectBoundingBox" cx="16.091518%" cy="-1.2484975%" fx="16.091518%" fy="-1.2484975%" r="82.77018%" gradientTransform="translate(0.16091518,-0.012484975),scale(1,0.66630006),translate(-0.16091518,0.012484975)" id="gradient_2">
+      <stop offset="0%" stop-color="#4168C9" />
+      <stop offset="99.9%" stop-color="#4168C9" stop-opacity="0" />
+    </radialGradient>
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="icons8_instagram_8">
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M29.1948 37.5L8.36146 37.5198C3.77813 37.524 0.0250037 33.7781 0.0197952 29.1948L3.47694e-06 8.36146C-0.00416338 3.77813 3.74167 0.0250037 8.325 0.0197952L29.1583 3.47694e-06C33.7417 -0.00416338 37.4948 3.74167 37.5 8.325L37.5198 29.1583C37.525 33.7427 33.7781 37.4958 29.1948 37.5L29.1948 37.5Z" transform="translate(6.239563 6.2395935)" id="Shape" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+      <path d="M29.1948 37.5L8.36146 37.5198C3.77813 37.524 0.0250037 33.7781 0.0197952 29.1948L3.47694e-06 8.36146C-0.00416338 3.77813 3.74167 0.0250037 8.325 0.0197952L29.1583 3.47694e-06C33.7417 -0.00416338 37.4948 3.74167 37.5 8.325L37.5198 29.1583C37.525 33.7427 33.7781 37.4958 29.1948 37.5L29.1948 37.5Z" transform="translate(6.239563 6.2395935)" id="Shape" fill="url(#gradient_2)" fill-rule="evenodd" stroke="none" />
+      <path d="M7.29167 14.5833C3.27188 14.5833 0 11.3125 0 7.29167C0 3.27083 3.27188 0 7.29167 0C11.3115 0 14.5833 3.27083 14.5833 7.29167C14.5833 11.3125 11.3115 14.5833 7.29167 14.5833L7.29167 14.5833ZM7.29165 2.08334C4.41977 2.08334 2.08331 4.41979 2.08331 7.29167C2.08331 10.1635 4.41977 12.5 7.29165 12.5C10.1635 12.5 12.5 10.1635 12.5 7.29167C12.5 4.41979 10.1635 2.08334 7.29165 2.08334L7.29165 2.08334Z" transform="translate(17.708313 17.708328)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 1.5625C0 0.699555 0.699555 0 1.5625 0C2.42545 0 3.125 0.699555 3.125 1.5625C3.125 2.42545 2.42545 3.125 1.5625 3.125C0.699555 3.125 0 2.42545 0 1.5625Z" transform="translate(31.25 15.625)" id="Circle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M19.7917 27.0833L7.29167 27.0833C3.27187 27.0833 0 23.8125 0 19.7917L0 7.29167C0 3.27083 3.27187 0 7.29167 0L19.7917 0C23.8115 0 27.0833 3.27083 27.0833 7.29167L27.0833 19.7917C27.0833 23.8125 23.8115 27.0833 19.7917 27.0833L19.7917 27.0833ZM7.29165 2.08333C4.41977 2.08333 2.08331 4.41979 2.08331 7.29166L2.08331 19.7917C2.08331 22.6635 4.41977 25 7.29165 25L19.7916 25C22.6635 25 25 22.6635 25 19.7917L25 7.29166C25 4.41979 22.6635 2.08333 19.7916 2.08333L7.29165 2.08333L7.29165 2.08333Z" transform="translate(11.458313 11.458328)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

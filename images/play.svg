@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="icons8_play_button">
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M40.8333 25.9375C40.4167 28.125 38.6458 29.7917 36.4583 30.1042C33.0208 30.625 27.2917 31.25 20.8333 31.25C14.4792 31.25 8.75 30.625 5.20833 30.1042C3.02083 29.7917 1.25 28.125 0.833333 25.9375C0.416667 23.5417 0 20 0 15.625C0 11.25 0.416667 7.70833 0.833333 5.3125C1.25 3.125 3.02083 1.45833 5.20833 1.14583C8.64583 0.625 14.375 0 20.8333 0C27.2917 0 32.9167 0.625 36.4583 1.14583C38.6458 1.45833 40.4167 3.125 40.8333 5.3125C41.25 7.70833 41.7708 11.25 41.7708 15.625C41.6667 20 41.25 23.5417 40.8333 25.9375L40.8333 25.9375Z" transform="translate(4.166687 9.375)" id="Shape" fill="#FF3D00" fill-rule="evenodd" stroke="none" />
+      <path d="M0 14.5833L0 0L12.5 7.29167L0 14.5833Z" transform="translate(20.833313 17.708328)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

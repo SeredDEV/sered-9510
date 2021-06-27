@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <title>Portafolio Sergio Rodriguez</title>
+  <link rel="stylesheet" href="CSS/style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+
+<body>
+  <div class="navigation">
+    <div class="banner">
+      <img src="images/banner.jpg" class="cover">
+    </div>
+    <div class="navLink">
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Acerca de mi</a></li>
+        <li><a href="#">Estudios</a></li>
+        <li><a href="#">Proyectos</a></li>
+        <li><a href="#">Contacto</a></li>
+        <li><a href="CV/indexcv.html" class="btn">Ver CV</a></li>
+      </ul>
+    </div>
+  </div>
+  <section class="sec">
+    <header>
+      <div class="toggle"></div>
+      <!-- <a href="#" class="btn">Contacto</a> -->
+    </header>
+    <div class="imgBx">
+      <img src="images/yo.jpg" class="cover">
+    </div>
+    <div class="content">
+      <h2>Hola, Soy<br><span>Sergio Rodriguez</span></h2>
+      <p>Soy un profesional de ingenieria Biomedica e integro en la informática, apasionado, dedicado, que disfruta
+        totalmente lo que hace. <br>
+        Desde que egrese de la universidad me he dedicado al desarrollo de hardware en todas sus etapas, pasando por la
+        toma de requerimientos, análisis, diseño, desarrollo, aseguramiento de calidad, implementación, mantenimiento.
+        <br>
+        Tengo un nivel de inglés básico y actualmente me encuentro estudiando en la academia Accenture.
+        <br>
+        En lo personal soy una persona alegre, muy activa y dedicado. Mis padres son mi mayor orgullo y mi inspiración
+        para tratar de ser cada día una mejor persona.
+        <br>
+        <br>
+        Soy un desarrollador certificado de BIT, me he especializado en desarrollo web Full Stack, me gusta mucho hacer
+        aplicaciones WEB tanto en el Backend (NodeJS, JavaScript, ExpressJS) como en el Front End utilizando (HTML5 CSS3
+        JavaScript, Angular, ReactJs), aplicaciones web completas con MEAN Stack. (Mongo-Express-Angular Node) y aplicar
+        la metodología ágil SCRUM. También trabajo algo de Python, C++, Visual Basic.
+      </p>
+      <a href="CV/indexcv.html" class="btn">Descargar CV</a>
+    </div>
+    <footer>
+      <ul class="sci">
+        <li><a href="https://github.com/SeredDEV" target="_blank"><img src="images/Github.svg"></a></li>
+        <li><a href="https://www.linkedin.com/in/sered9505/" target="_blank"><img src="images/linkedin.svg"></a></li>
+        <li><a href="https://www.youtube.com/channel/UCcjfmVnuRYd7kPCcrVlpGog" target="_blank"><img
+              src="images/play.svg"></a></li>
+        <li><a href="https://www.instagram.com/sered9505/" target="_blank"><img src="images/instagram.svg"></a></li>
+        <li><a href="https://www.facebook.com/seredismo9510" target="_blank"><img src="images/Facebook.svg"></a></li>
+      </ul>
+      <p class="copyrightText">©2021 Sergio Rodríguez</p>
+    </footer>
+  </section>
+  <script>
+    let menuToggle = document.querySelector('.toggle');
+    let navigation = document.querySelector('.navigation');
+    let sec = document.querySelector('.sec');
+    menuToggle.onclick = function () {
+      menuToggle.classList.toggle('active');
+      navigation.classList.toggle('active');
+      sec.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>
